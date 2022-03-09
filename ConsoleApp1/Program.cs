@@ -25,7 +25,10 @@ namespace ConsoleApp1
 
 
 
-
+                if (vvod == 5)
+                {
+                    Console.WriteLine(a * b);
+                }
 
 
 
